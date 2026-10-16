@@ -1,0 +1,512 @@
+[
+ {
+  "q": "What kind of imaging or tests do doctors run to check if a blood clot reached my lungs?",
+  "attendu": [
+   "doc1830_c2",
+   "doc1830_c3"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc1830_c3",
+   "doc1830_c2",
+   "doc1830_c0"
+  ],
+  "passages": [
+   "doc1830_c3",
+   "doc1830_c2",
+   "doc1830_c0"
+  ],
+  "reponse": "According to passage [1], doctors may use one or more of the following tests to check if a blood clot reached your lungs:\n\n1. Echocardiography (echo) to check heart function and detect blood clots inside the heart.\n2. EKG (electrocardiogram) to detect and record the heart's electrical activity.\n3. Chest x-ray to detect most cases of PE.\n\nAdditionally, passage [2] mentions that a Lung Ventilation/Perfusion Scan (VQ scan) can help detect PE, and passage [3] mentions that Pulmonary Angiography can also be used to diagnose PE.",
+  "raison": "ok"
+ },
+ {
+  "q": "Now that I have diverticulosis, is there anything I’m not allowed to eat anymore?",
+  "attendu": [
+   "doc504_c1"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc1156_c0"
+  ],
+  "passages": [
+   "doc1156_c0",
+   "doc417_c0",
+   "doc365_c0"
+  ],
+  "reponse": "According to passage [1], a high-fiber diet will often relieve symptoms of diverticulosis.",
+  "raison": "ok"
+ },
+ {
+  "q": "Is there any specific cure available for Alkhurma hemorrhagic fever, or is it just about managing symptoms?",
+  "attendu": [
+   "doc2333_c0"
+  ],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc2311_c0",
+   "doc2272_c0",
+   "doc2159_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "refus_llm"
+ },
+ {
+  "q": "Are researchers looking into whether chemicals at work during pregnancy can cause birth defects?",
+  "attendu": [
+   "doc799_c0"
+  ],
+  "avertissements": [
+   "Pregnancy: consult a healthcare professional."
+  ],
+  "citations": [],
+  "passages": [
+   "doc799_c0",
+   "doc1863_c0",
+   "doc940_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "seuil"
+ },
+ {
+  "q": "Why do I get dizzy and see blurry spots every single time I stand up quickly?",
+  "attendu": [
+   "doc1910_c0"
+  ],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc1910_c0",
+   "doc1175_c0",
+   "doc962_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "seuil"
+ },
+ {
+  "q": "I’ve had this nagging cough for ages now, what could possibly be causing it to linger for so long?",
+  "attendu": [
+   "doc2074_c2",
+   "doc2074_c1"
+  ],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc2074_c1",
+   "doc1833_c1",
+   "doc1833_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "pas_de_citation",
+  "brut": "Based on the passages, a chronic cough can be caused by upper airway cough syndrome (UACS), asthma, gastroesophageal reflux disease (GERD), respiratory infections, chronic bronchitis, bronchiectasis, and other conditions that inflame or irritate the airways. Since your cough has been lingering for a long time, it's possible that it's caused by one of these conditions. It's recommended to treat the underlying cause of the cough, rather than just the cough itself."
+ },
+ {
+  "q": "My diabetes is under control, but do I really need to get my eyes checked every single year if my vision feels fine?",
+  "attendu": [
+   "doc1353_c0"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc1353_c0"
+  ],
+  "passages": [
+   "doc1353_c0",
+   "doc1127_c0",
+   "doc1348_c2"
+  ],
+  "reponse": "[1] You can develop both proliferative retinopathy and macular edema and still see fine. However, you are at high risk for vision loss.",
+  "raison": "ok"
+ },
+ {
+  "q": "I'm expecting a baby and just tested positive for toxoplasmosis, is there any chance this infection can pass through to my child?",
+  "attendu": [
+   "doc2207_c2"
+  ],
+  "avertissements": [
+   "Pregnancy: consult a healthcare professional.",
+   "Child: consult a healthcare professional."
+  ],
+  "citations": [
+   "doc2207_c2"
+  ],
+  "passages": [
+   "doc2207_c2",
+   "doc1053_c0",
+   "doc2274_c0"
+  ],
+  "reponse": "According to passage [1], a woman who is newly infected with Toxoplasma during pregnancy can pass the infection to her unborn child (congenital infection).",
+  "raison": "ok"
+ },
+ {
+  "q": "Why does my food seem to taste so much blander now that I'm getting older, and are my taste buds just wearing out?",
+  "attendu": [
+   "doc1288_c1",
+   "doc1288_c0"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc1288_c0",
+   "doc1288_c3",
+   "doc1332_c2"
+  ],
+  "passages": [
+   "doc1288_c0",
+   "doc1288_c3",
+   "doc1332_c2"
+  ],
+  "reponse": "According to passage [1], most older people will not notice a decline in their sense of taste because normal aging does not greatly affect our sense of taste. However, problems with taste do occur less frequently than problems with smell, and damage to the taste nerves following head injury can lead to taste loss. Additionally, passage [1] states that after age 50, we may start to lose taste buds.\n\nPassage [2] suggests that a problem with taste can weaken or remove an early warning system that helps detect spoiled food or ingredients, which can lead to eating too much sugar or salt to make food taste better. This can be a problem for people with illnesses such as diabetes or high blood pressure.\n\nPassage [3] provides some tips to help maintain or improve taste, but does not directly address the question of why taste seems blander with age.",
+  "raison": "ok"
+ },
+ {
+  "q": "What kind of imaging scans or urine tests are usually done to check for kidney or ureter tumors?",
+  "attendu": [
+   "doc1540_c1"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc1540_c0",
+   "doc306_c0",
+   "doc324_c2"
+  ],
+  "passages": [
+   "doc1540_c0",
+   "doc306_c0",
+   "doc324_c2"
+  ],
+  "reponse": "According to passage [1], the following tests and procedures may be used to detect and diagnose transitional cell cancer of the renal pelvis and ureter: Urinalysis, Ureteroscopy, and Urine cytology. \n\nAccording to passage [2], urine tests can be used to check for infection and for substances that form stones, but it does not specifically mention imaging scans for kidney or ureter tumors.\n\nAccording to passage [3], CT scans can show urinary tract stones, but it does not specifically mention imaging scans for kidney or ureter tumors.",
+  "raison": "ok"
+ },
+ {
+  "q": "The doctor mentioned my infant has a patent ductus arteriosus—is there a chance this heart issue will just close up on its own without surgery?",
+  "attendu": [
+   "doc2075_c1"
+  ],
+  "avertissements": [
+   "Child: consult a healthcare professional."
+  ],
+  "citations": [
+   "doc2075_c0"
+  ],
+  "passages": [
+   "doc2075_c0",
+   "doc2001_c3",
+   "doc2028_c0"
+  ],
+  "reponse": "According to passage [1], the ductus arteriosus is supposed to close as part of the normal changes occurring in the baby's circulation within minutes or up to a few days after birth. However, in some babies, the ductus arteriosus remains open (patent), and this opening can put strain on the heart and increase blood pressure in the lung arteries. There is no indication in the passage that the condition will close up on its own without surgery.",
+  "raison": "ok"
+ },
+ {
+  "q": "Can Acinetobacter stay alive on my skin or on surfaces for a long time, and what can I do to avoid catching it?",
+  "attendu": [
+   "doc2291_c0"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc2291_c0"
+  ],
+  "passages": [
+   "doc2291_c0",
+   "doc2174_c0",
+   "doc2195_c0"
+  ],
+  "reponse": "According to passage [1], Acinetobacter can live on the skin and may survive in the environment for several days. To avoid catching it, careful attention to infection control procedures, such as hand hygiene and environmental cleaning, can reduce the risk of transmission.",
+  "raison": "ok"
+ },
+ {
+  "q": "If blood thinners aren't an option for treating my clots, is there a device like a tiny metal net that can be placed in a major vein to block them?",
+  "attendu": [
+   "doc2099_c3"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc2099_c2"
+  ],
+  "passages": [
+   "doc2041_c0",
+   "doc2099_c0",
+   "doc2099_c2"
+  ],
+  "reponse": "Yes, a vena cava filter is a device that can be placed in a major vein to block blood clots. According to passage [3], a vena cava filter is one of the other types of treatment suggested by a doctor if medicines to thin the blood don't work.",
+  "raison": "ok"
+ },
+ {
+  "q": "What can I do at home for a pinched nerve, or will I eventually need to look into physical therapy or surgery?",
+  "attendu": [
+   "doc704_c0"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc704_c0"
+  ],
+  "passages": [
+   "doc704_c0",
+   "doc875_c0",
+   "doc1174_c0"
+  ],
+  "reponse": "Based on passage [1], for a pinched nerve, rest for the affected area is the most frequently recommended treatment at home. Nonsteroidal anti-inflammatory drugs (NSAIDs) or corticosteroids may also be used to help alleviate pain. However, if symptoms persist or worsen, physical therapy or surgery may be needed, depending on the cause and severity of the pinched nerve.",
+  "raison": "ok"
+ },
+ {
+  "q": "Where do the germs that cause a urinary infection in my child usually come from?",
+  "attendu": [
+   "doc394_c0"
+  ],
+  "avertissements": [
+   "Child: consult a healthcare professional."
+  ],
+  "citations": [
+   "doc394_c0"
+  ],
+  "passages": [
+   "doc394_c0",
+   "doc332_c0",
+   "doc582_c0"
+  ],
+  "reponse": "[1] The germs that cause a urinary infection in a child usually come from bacteria that live in the bowel, specifically from Escherichia coli (E. coli).",
+  "raison": "ok"
+ },
+ {
+  "q": "My child keeps having headaches and vomiting and seems clumsy with balance, should I worry about a tumor?",
+  "attendu": [
+   "doc1618_c0"
+  ],
+  "avertissements": [
+   "Child: consult a healthcare professional."
+  ],
+  "citations": [
+   "doc1618_c0",
+   "doc1661_c0"
+  ],
+  "passages": [
+   "doc1618_c0",
+   "doc1661_c0",
+   "doc1659_c0"
+  ],
+  "reponse": "Based on the passages, it is possible that your child's symptoms could be related to a tumor, but it's not definitive. The passages mention that signs and symptoms of childhood ependymoma or childhood rhabdomyosarcoma may include headaches and vomiting, and that loss of balance or trouble walking is a symptom of childhood ependymoma. However, the passages also state that signs and symptoms may be caused by other conditions, and that a definitive diagnosis can only be made by checking with your child's doctor.\n\n[1], [2]",
+  "raison": "ok"
+ },
+ {
+  "q": "My doctor said I have Q fever, what amount of the antibiotic should an adult take, and how often?",
+  "attendu": [
+   "doc2124_c9"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc2124_c8"
+  ],
+  "passages": [
+   "doc2124_c8",
+   "doc2124_c7",
+   "doc2124_c9"
+  ],
+  "reponse": "[1] According to the passage, for adults, the recommended dosage of doxycycline is 100 mg every 12 hours.",
+  "raison": "ok"
+ },
+ {
+  "q": "For how many days and in what amounts should I take the medicine prescribed to clear up lymphatic filariasis?",
+  "attendu": [
+   "doc2138_c0"
+  ],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc2305_c0",
+   "doc2281_c2",
+   "doc2148_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "regle_dose"
+ },
+ {
+  "q": "Is there any real benefit in waiting to see if chest discomfort goes away on its own, or does quick medical intervention matter?",
+  "attendu": [
+   "doc1453_c0"
+  ],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc2084_c2",
+   "doc1882_c1",
+   "doc1847_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "seuil"
+ },
+ {
+  "q": "What sort of routine hospital tests like blood draws, heart tracings, or chest imaging would doctors use to figure out if my heart is failing?",
+  "attendu": [
+   "doc1432_c1"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc1302_c0",
+   "doc1432_c0",
+   "doc1432_c1"
+  ],
+  "passages": [
+   "doc1302_c0",
+   "doc1432_c0",
+   "doc1432_c1"
+  ],
+  "reponse": "According to passages [1], [2], and [3], doctors may use the following routine hospital tests to figure out if your heart is failing:\n\n- An electrocardiogram (EKG or ECG) to measure the rate and regularity of the heartbeat\n- A chest X-ray to evaluate the heart and lungs\n- A BNP blood test to measure the level of a hormone called BNP that increases when heart failure is present\n- An echocardiogram to create a picture of the heart and show how well the heart is filling with blood",
+  "raison": "ok"
+ },
+ {
+  "q": "My brother was just diagnosed with Wilson's disease, so should the rest of us get screened even though we feel fine?",
+  "attendu": [
+   "doc478_c0"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc478_c0",
+   "doc462_c0"
+  ],
+  "passages": [
+   "doc478_c0",
+   "doc462_c0",
+   "doc358_c2"
+  ],
+  "reponse": "[1] People with a family history of Wilson disease, especially those with an affected sibling or parent, should talk with a health care provider about testing. \n\n[2] Children can have Wilson disease for several years before any signs and symptoms occur. People with Wilson disease may have signs and symptoms of chronic, or long lasting, liver disease, but it does not specify that the rest of the family members should get screened.",
+  "raison": "ok"
+ },
+ {
+  "q": "I have a fever, swollen glands and painful ankles, could it be sarcoidosis, and can some people have it without any symptoms?",
+  "attendu": [
+   "doc1993_c1"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc2093_c0",
+   "doc1993_c1"
+  ],
+  "passages": [
+   "doc2093_c0",
+   "doc1993_c1",
+   "doc2076_c0"
+  ],
+  "reponse": "Based on the passages, it is possible that you could have sarcoidosis if you have a fever, swollen glands, and painful ankles. Lofgren's syndrome, a type of sarcoidosis, is characterized by fever, enlarged lymph nodes, arthritis (usually in the ankles), and/or erythema nodosum (er-ih-THE-ma no-DO-sum). [1], [2]\n\nYes, some people can have sarcoidosis without any symptoms. Many people who have sarcoidosis have no signs or symptoms or mild ones. [1], [2]",
+  "raison": "ok"
+ },
+ {
+  "q": "Is it true that osteoporosis doesn't really show any warning signs until you break a bone, or could shrinking by an inch be a hint?",
+  "attendu": [
+   "doc1368_c0"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc1368_c0"
+  ],
+  "passages": [
+   "doc1368_c0",
+   "doc1249_c4",
+   "doc1398_c0"
+  ],
+  "reponse": "According to passage [1], height loss of one inch or more may be the first sign that someone has experienced spine fractures due to osteoporosis, which could be a warning sign that a person has already developed osteoporosis.",
+  "raison": "ok"
+ },
+ {
+  "q": "The doctor said the growth found in my spinal cord is non-cancerous, but could it still cause issues just by pressing against nearby tissues?",
+  "attendu": [
+   "doc642_c0"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc642_c0"
+  ],
+  "passages": [
+   "doc642_c0",
+   "doc1789_c2",
+   "doc823_c0"
+  ],
+  "reponse": "Yes, according to passage [1], tumors of the brain and spinal cord can place pressure on sensitive tissues and impair function, even if they are benign.",
+  "raison": "ok"
+ },
+ {
+  "q": "Years after finishing treatment for osteosarcoma, could my teenager still face lingering physical or memory challenges?",
+  "attendu": [
+   "doc1671_c2"
+  ],
+  "avertissements": [
+   "Child: consult a healthcare professional."
+  ],
+  "citations": [
+   "doc1671_c2"
+  ],
+  "passages": [
+   "doc1671_c2",
+   "doc1605_c0",
+   "doc1784_c2"
+  ],
+  "reponse": "According to passage [1], late effects of cancer treatment may include physical problems and changes in mood, feelings, thinking, learning, or memory.",
+  "raison": "ok"
+ },
+ {
+  "q": "How many milliliters of ibuprofen should I give my three-year-old child for a high fever?",
+  "attendu": [],
+  "avertissements": [
+   "Child: consult a healthcare professional."
+  ],
+  "citations": [],
+  "passages": [
+   "doc1155_c0",
+   "doc952_c0",
+   "doc2124_c9"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "seuil"
+ },
+ {
+  "q": "Is it completely safe to take ibuprofen during the first trimester of pregnancy?",
+  "attendu": [],
+  "avertissements": [
+   "Pregnancy: consult a healthcare professional."
+  ],
+  "citations": [],
+  "passages": [
+   "doc1680_c13",
+   "doc2124_c10",
+   "doc1182_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "seuil"
+ },
+ {
+  "q": "Can I drink a glass of wine in the evening while taking amoxicillin?",
+  "attendu": [],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc2072_c2",
+   "doc2004_c0",
+   "doc1819_c4"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "seuil"
+ },
+ {
+  "q": "What dose of levothyroxine should I take for an underactive thyroid?",
+  "attendu": [],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc456_c3",
+   "doc456_c2",
+   "doc595_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "seuil"
+ },
+ {
+  "q": "What exercises help with plantar fasciitis heel pain?",
+  "attendu": [],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc959_c0",
+   "doc1425_c0",
+   "doc875_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "refus_llm"
+ }
+]
