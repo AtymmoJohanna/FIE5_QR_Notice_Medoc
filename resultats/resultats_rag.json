@@ -1,0 +1,486 @@
+[
+ {
+  "q": "What kind of imaging or tests do doctors run to check if a blood clot reached my lungs?",
+  "attendu": [
+   "doc1830_c2",
+   "doc1830_c3"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc1830_c3",
+   "doc1830_c2",
+   "doc1830_c0"
+  ],
+  "passages": [
+   "doc1830_c3",
+   "doc1830_c2",
+   "doc1830_c0"
+  ],
+  "reponse": "According to passage [1], doctors may use one or more of the following tests to check if a blood clot reached your lungs:\n\n1. Echocardiography (echo) to check heart function and detect blood clots inside the heart.\n2. EKG (electrocardiogram) to detect and record the heart's electrical activity.\n3. Chest x-ray to detect most cases of PE.\n4. Lung Ventilation/Perfusion Scan (VQ scan) to show how well oxygen and blood are flowing to all areas of your lungs.\n5. Pulmonary Angiography to show blood flowing through the blood vessels in the lungs and to remove or dissolve a blood clot if present.\n\nAdditionally, passage [2] mentions that a Chest x-ray can be used to detect most cases of PE, and passage [3] mentions that a Pulmonary Angiography can be used to diagnose PE.",
+  "raison": "ok"
+ },
+ {
+  "q": "Now that I have diverticulosis, is there anything I’m not allowed to eat anymore?",
+  "attendu": [
+   "doc504_c1"
+  ],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc1156_c0",
+   "doc417_c0",
+   "doc365_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "refus_llm"
+ },
+ {
+  "q": "Is there any specific cure available for Alkhurma hemorrhagic fever, or is it just about managing symptoms?",
+  "attendu": [
+   "doc2333_c0"
+  ],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc2311_c0",
+   "doc2272_c0",
+   "doc2159_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "refus_llm"
+ },
+ {
+  "q": "Are researchers looking into whether chemicals at work during pregnancy can cause birth defects?",
+  "attendu": [
+   "doc799_c0"
+  ],
+  "avertissements": [
+   "Pregnancy: consult a healthcare professional."
+  ],
+  "citations": [],
+  "passages": [
+   "doc799_c0",
+   "doc1863_c0",
+   "doc940_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "seuil"
+ },
+ {
+  "q": "Why do I get dizzy and see blurry spots every single time I stand up quickly?",
+  "attendu": [
+   "doc1910_c0"
+  ],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc1910_c0",
+   "doc1175_c0",
+   "doc962_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "seuil"
+ },
+ {
+  "q": "I’ve had this nagging cough for ages now, what could possibly be causing it to linger for so long?",
+  "attendu": [
+   "doc2074_c2",
+   "doc2074_c1"
+  ],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc2074_c1",
+   "doc1833_c1",
+   "doc1833_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "refus_llm"
+ },
+ {
+  "q": "My diabetes is under control, but do I really need to get my eyes checked every single year if my vision feels fine?",
+  "attendu": [
+   "doc1353_c0"
+  ],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc1353_c0",
+   "doc1127_c0",
+   "doc1348_c2"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "refus_llm"
+ },
+ {
+  "q": "I'm expecting a baby and just tested positive for toxoplasmosis, is there any chance this infection can pass through to my child?",
+  "attendu": [
+   "doc2207_c2"
+  ],
+  "avertissements": [
+   "Pregnancy: consult a healthcare professional.",
+   "Child: consult a healthcare professional."
+  ],
+  "citations": [
+   "doc2207_c2"
+  ],
+  "passages": [
+   "doc2207_c2",
+   "doc1053_c0",
+   "doc2274_c0"
+  ],
+  "reponse": "Based on the available documents, yes, there is a chance that the infection can pass through to your child. According to passage [1], a woman who is newly infected with Toxoplasma during pregnancy can pass the infection to her unborn child (congenital infection).",
+  "raison": "ok"
+ },
+ {
+  "q": "Why does my food seem to taste so much blander now that I'm getting older, and are my taste buds just wearing out?",
+  "attendu": [
+   "doc1288_c1",
+   "doc1288_c0"
+  ],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc1288_c0",
+   "doc1288_c3",
+   "doc1332_c2"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "refus_llm"
+ },
+ {
+  "q": "What kind of imaging scans or urine tests are usually done to check for kidney or ureter tumors?",
+  "attendu": [
+   "doc1540_c1"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc1540_c0"
+  ],
+  "passages": [
+   "doc1540_c0",
+   "doc306_c0",
+   "doc324_c2"
+  ],
+  "reponse": "According to passage [1], the following tests and procedures may be used to detect and diagnose transitional cell cancer of the renal pelvis and ureter: Urinalysis, Ureteroscopy, and Urine cytology.",
+  "raison": "ok"
+ },
+ {
+  "q": "The doctor mentioned my infant has a patent ductus arteriosus—is there a chance this heart issue will just close up on its own without surgery?",
+  "attendu": [
+   "doc2075_c1"
+  ],
+  "avertissements": [
+   "Child: consult a healthcare professional."
+  ],
+  "citations": [],
+  "passages": [
+   "doc2075_c0",
+   "doc2001_c3",
+   "doc2028_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "refus_llm"
+ },
+ {
+  "q": "Can Acinetobacter stay alive on my skin or on surfaces for a long time, and what can I do to avoid catching it?",
+  "attendu": [
+   "doc2291_c0"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc2291_c0"
+  ],
+  "passages": [
+   "doc2291_c0",
+   "doc2174_c0",
+   "doc2195_c0"
+  ],
+  "reponse": "According to passage [1], Acinetobacter can live on the skin and may survive in the environment for several days. To avoid catching it, careful attention to infection control procedures, such as hand hygiene and environmental cleaning, can reduce the risk of transmission.",
+  "raison": "ok"
+ },
+ {
+  "q": "If blood thinners aren't an option for treating my clots, is there a device like a tiny metal net that can be placed in a major vein to block them?",
+  "attendu": [
+   "doc2099_c3"
+  ],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc2041_c0",
+   "doc2099_c0",
+   "doc2099_c2"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "refus_llm"
+ },
+ {
+  "q": "What can I do at home for a pinched nerve, or will I eventually need to look into physical therapy or surgery?",
+  "attendu": [
+   "doc704_c0"
+  ],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc704_c0",
+   "doc875_c0",
+   "doc1174_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "pas_de_citation",
+  "brut": "Based on the available documents, it is recommended to start with rest for the affected area, and nonsteroidal anti-inflammatory drugs (NSAIDs) or corticosteroids may be used to help alleviate pain. Physical therapy may be useful, and splints or collars may be used to relieve symptoms. However, the passage does not specify a timeline for when to seek physical therapy or surgery. It only mentions that depending on the cause and severity of the pinched nerve, surgery may be needed."
+ },
+ {
+  "q": "Where do the germs that cause a urinary infection in my child usually come from?",
+  "attendu": [
+   "doc394_c0"
+  ],
+  "avertissements": [
+   "Child: consult a healthcare professional."
+  ],
+  "citations": [
+   "doc394_c0"
+  ],
+  "passages": [
+   "doc394_c0",
+   "doc332_c0",
+   "doc582_c0"
+  ],
+  "reponse": "According to passage [1], the germs that cause a urinary infection in a child usually come from the bowel, where bacteria such as Escherichia coli (E. coli) live.",
+  "raison": "ok"
+ },
+ {
+  "q": "My child keeps having headaches and vomiting and seems clumsy with balance, should I worry about a tumor?",
+  "attendu": [
+   "doc1618_c0"
+  ],
+  "avertissements": [
+   "Child: consult a healthcare professional."
+  ],
+  "citations": [],
+  "passages": [
+   "doc1618_c0",
+   "doc1661_c0",
+   "doc1659_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "refus_llm"
+ },
+ {
+  "q": "My doctor said I have Q fever, what amount of the antibiotic should an adult take, and how often?",
+  "attendu": [
+   "doc2124_c9"
+  ],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc2124_c8",
+   "doc2124_c7",
+   "doc2124_c9"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "refus_llm"
+ },
+ {
+  "q": "For how many days and in what amounts should I take the medicine prescribed to clear up lymphatic filariasis?",
+  "attendu": [
+   "doc2138_c0"
+  ],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc2305_c0",
+   "doc2281_c2",
+   "doc2148_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "regle_dose"
+ },
+ {
+  "q": "Is there any real benefit in waiting to see if chest discomfort goes away on its own, or does quick medical intervention matter?",
+  "attendu": [
+   "doc1453_c0"
+  ],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc2084_c2",
+   "doc1882_c1",
+   "doc1847_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "seuil"
+ },
+ {
+  "q": "What sort of routine hospital tests like blood draws, heart tracings, or chest imaging would doctors use to figure out if my heart is failing?",
+  "attendu": [
+   "doc1432_c1"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc1302_c0",
+   "doc1432_c0",
+   "doc1432_c1"
+  ],
+  "passages": [
+   "doc1302_c0",
+   "doc1432_c0",
+   "doc1432_c1"
+  ],
+  "reponse": "According to passages [1], [2], and [3], doctors may order the following routine hospital tests to figure out if your heart is failing:\n\n* Electrocardiogram (EKG or ECG) to measure the rate and regularity of your heartbeat\n* Chest X-ray to evaluate the heart and lungs\n* BNP blood test to measure the level of a hormone called BNP that increases when heart failure is present\n* Echocardiogram to create a picture of the heart and show how well the heart is filling with blood\n* Holter monitor (mentioned in passage [3], but not explicitly stated as a routine test in passage [1] or [2])\n* Exercise stress test (mentioned in passage [3], but not explicitly stated as a routine test in passage [1] or [2])\n\nNote that the specific tests used may vary depending on the individual's condition and the doctor's professional judgment.",
+  "raison": "ok"
+ },
+ {
+  "q": "My brother was just diagnosed with Wilson's disease, so should the rest of us get screened even though we feel fine?",
+  "attendu": [
+   "doc478_c0"
+  ],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc478_c0",
+   "doc462_c0",
+   "doc358_c2"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "refus_llm"
+ },
+ {
+  "q": "I have a fever, swollen glands and painful ankles, could it be sarcoidosis, and can some people have it without any symptoms?",
+  "attendu": [
+   "doc1993_c1"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc1993_c1",
+   "doc2076_c0"
+  ],
+  "passages": [
+   "doc2093_c0",
+   "doc1993_c1",
+   "doc2076_c0"
+  ],
+  "reponse": "Based on the available documents, it's possible that you may have sarcoidosis, as your symptoms include fever, swollen glands, and painful ankles. However, only a medical professional can provide a definitive diagnosis.\n\nAccording to passage [2], Lofgren's syndrome is a classic set of signs and symptoms that is typical in some people who have sarcoidosis, which may include fever, swollen glands, and arthritis (usually in the ankles). Additionally, passage [2] states that many people who have sarcoidosis have no signs or symptoms or mild ones.\n\nPassage [3] mentions that your doctor will diagnose sarcoidosis based on your medical history, physical exam, and test results, and will look for granulomas (inflamed lumps) in your organs. However, it does not provide a clear answer to whether some people can have sarcoidosis without any symptoms.\n\nTherefore, the answer is: I don't know based on the available documents.",
+  "raison": "ok"
+ },
+ {
+  "q": "Is it true that osteoporosis doesn't really show any warning signs until you break a bone, or could shrinking by an inch be a hint?",
+  "attendu": [
+   "doc1368_c0"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc1368_c0"
+  ],
+  "passages": [
+   "doc1368_c0",
+   "doc1249_c4",
+   "doc1398_c0"
+  ],
+  "reponse": "According to passage [1], height loss of one inch or more may be the first sign that someone has experienced spine fractures due to osteoporosis, which could be a hint that osteoporosis is present.",
+  "raison": "ok"
+ },
+ {
+  "q": "The doctor said the growth found in my spinal cord is non-cancerous, but could it still cause issues just by pressing against nearby tissues?",
+  "attendu": [
+   "doc642_c0"
+  ],
+  "avertissements": [],
+  "citations": [
+   "doc642_c0"
+  ],
+  "passages": [
+   "doc642_c0",
+   "doc1789_c2",
+   "doc823_c0"
+  ],
+  "reponse": "Yes, according to passage [1], tumors of the brain and spinal cord can place pressure on sensitive tissues and impair function, even if they are benign.",
+  "raison": "ok"
+ },
+ {
+  "q": "Years after finishing treatment for osteosarcoma, could my teenager still face lingering physical or memory challenges?",
+  "attendu": [
+   "doc1671_c2"
+  ],
+  "avertissements": [
+   "Child: consult a healthcare professional."
+  ],
+  "citations": [],
+  "passages": [
+   "doc1671_c2",
+   "doc1605_c0",
+   "doc1784_c2"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "refus_llm"
+ },
+ {
+  "q": "How many milliliters of ibuprofen should I give my three-year-old child for a high fever?",
+  "attendu": [],
+  "avertissements": [
+   "Child: consult a healthcare professional."
+  ],
+  "citations": [],
+  "passages": [
+   "doc1155_c0",
+   "doc952_c0",
+   "doc2124_c9"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "seuil"
+ },
+ {
+  "q": "Is it completely safe to take ibuprofen during the first trimester of pregnancy?",
+  "attendu": [],
+  "avertissements": [
+   "Pregnancy: consult a healthcare professional."
+  ],
+  "citations": [],
+  "passages": [
+   "doc1680_c13",
+   "doc2124_c10",
+   "doc1182_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "seuil"
+ },
+ {
+  "q": "Can I drink a glass of wine in the evening while taking amoxicillin?",
+  "attendu": [],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc2072_c2",
+   "doc2004_c0",
+   "doc1819_c4"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "seuil"
+ },
+ {
+  "q": "What dose of levothyroxine should I take for an underactive thyroid?",
+  "attendu": [],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc456_c3",
+   "doc456_c2",
+   "doc595_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "seuil"
+ },
+ {
+  "q": "What exercises help with plantar fasciitis heel pain?",
+  "attendu": [],
+  "avertissements": [],
+  "citations": [],
+  "passages": [
+   "doc959_c0",
+   "doc1425_c0",
+   "doc875_c0"
+  ],
+  "reponse": "I don't know based on the available documents.",
+  "raison": "refus_llm"
+ }
+]

@@ -1,0 +1,235 @@
+[
+ {
+  "q": "What kind of imaging or tests do doctors run to check if a blood clot reached my lungs?",
+  "reponse_attendue": "Des examens d'imagerie : scanner avec produit de contraste et scintigraphie ventilation/perfusion (VQ scan).",
+  "chunks_attendus": [
+   "doc1830_c2",
+   "doc1830_c3"
+  ],
+  "type": "factuelle"
+ },
+ {
+  "q": "Now that I have diverticulosis, is there anything I’m not allowed to eat anymore?",
+  "reponse_attendue": "Non, il n'est pas nécessaire d'éliminer certains aliments.",
+  "chunks_attendus": [
+   "doc504_c1"
+  ],
+  "type": "reformulation"
+ },
+ {
+  "q": "Is there any specific cure available for Alkhurma hemorrhagic fever, or is it just about managing symptoms?",
+  "reponse_attendue": "Il n'y a pas de traitement spécifique, seulement des soins de soutien.",
+  "chunks_attendus": [
+   "doc2333_c0"
+  ],
+  "type": "factuelle"
+ },
+ {
+  "q": "Are researchers looking into whether chemicals at work during pregnancy can cause birth defects?",
+  "reponse_attendue": "Oui, des recherches étudient le risque de malformations lié à l'exposition professionnelle aux pesticides.",
+  "chunks_attendus": [
+   "doc799_c0"
+  ],
+  "type": "grossesse"
+ },
+ {
+  "q": "Why do I get dizzy and see blurry spots every single time I stand up quickly?",
+  "reponse_attendue": "Ce sont des signes d'hypotension orthostatique : étourdissements, vision floue, faiblesse, parfois évanouissement en se levant.",
+  "chunks_attendus": [
+   "doc1910_c0"
+  ],
+  "type": "symptomes"
+ },
+ {
+  "q": "I’ve had this nagging cough for ages now, what could possibly be causing it to linger for so long?",
+  "reponse_attendue": "Plusieurs causes possibles : bronchectasie, BPCO, cancer du poumon (rare), insuffisance cardiaque.",
+  "chunks_attendus": [
+   "doc2074_c2",
+   "doc2074_c1"
+  ],
+  "type": "causes"
+ },
+ {
+  "q": "My diabetes is under control, but do I really need to get my eyes checked every single year if my vision feels fine?",
+  "reponse_attendue": "Oui, un examen des yeux avec dilatation au moins une fois par an, car la rétinopathie peut évoluer sans symptôme.",
+  "chunks_attendus": [
+   "doc1353_c0"
+  ],
+  "type": "prevention"
+ },
+ {
+  "q": "I'm expecting a baby and just tested positive for toxoplasmosis, is there any chance this infection can pass through to my child?",
+  "reponse_attendue": "Oui, une femme infectée pendant la grossesse peut transmettre l'infection à son bébé, avec des conséquences graves possibles.",
+  "chunks_attendus": [
+   "doc2207_c2"
+  ],
+  "type": "grossesse"
+ },
+ {
+  "q": "Why does my food seem to taste so much blander now that I'm getting older, and are my taste buds just wearing out?",
+  "reponse_attendue": "Après 50 ans, on peut commencer à perdre des papilles gustatives.",
+  "chunks_attendus": [
+   "doc1288_c1",
+   "doc1288_c0"
+  ],
+  "type": "explication"
+ },
+ {
+  "q": "What kind of imaging scans or urine tests are usually done to check for kidney or ureter tumors?",
+  "reponse_attendue": "Analyse d'urine (cytologie), pyélographie intraveineuse (radios avec produit de contraste) et scanner.",
+  "chunks_attendus": [
+   "doc1540_c1"
+  ],
+  "type": "examens"
+ },
+ {
+  "q": "The doctor mentioned my infant has a patent ductus arteriosus—is there a chance this heart issue will just close up on its own without surgery?",
+  "reponse_attendue": "Oui, si le cœur est par ailleurs normal, il peut se refermer seul, mais certains enfants ont besoin d'un traitement.",
+  "chunks_attendus": [
+   "doc2075_c1"
+  ],
+  "type": "enfant"
+ },
+ {
+  "q": "Can Acinetobacter stay alive on my skin or on surfaces for a long time, and what can I do to avoid catching it?",
+  "reponse_attendue": "Elle peut vivre sur la peau et survivre plusieurs jours dans l'environnement ; l'hygiène des mains et le nettoyage de l'environnement réduisent le risque.",
+  "chunks_attendus": [
+   "doc2291_c0"
+  ],
+  "type": "prevention"
+ },
+ {
+  "q": "If blood thinners aren't an option for treating my clots, is there a device like a tiny metal net that can be placed in a major vein to block them?",
+  "reponse_attendue": "Oui, un filtre de la veine cave inférieure, qui retient les caillots avant qu'ils n'atteignent les poumons.",
+  "chunks_attendus": [
+   "doc2099_c3"
+  ],
+  "type": "traitement"
+ },
+ {
+  "q": "What can I do at home for a pinched nerve, or will I eventually need to look into physical therapy or surgery?",
+  "reponse_attendue": "Le plus souvent du repos, parfois des anti-inflammatoires ou corticoïdes, de la kiné, des attelles ; la chirurgie selon la cause et la gravité.",
+  "chunks_attendus": [
+   "doc704_c0"
+  ],
+  "type": "traitement"
+ },
+ {
+  "q": "Where do the germs that cause a urinary infection in my child usually come from?",
+  "reponse_attendue": "La plupart viennent de bactéries de l'intestin, surtout Escherichia coli.",
+  "chunks_attendus": [
+   "doc394_c0"
+  ],
+  "type": "enfant"
+ },
+ {
+  "q": "My child keeps having headaches and vomiting and seems clumsy with balance, should I worry about a tumor?",
+  "reponse_attendue": "Ces signes peuvent venir d'un épendymome de l'enfant (maux de tête, nausées, perte d'équilibre), mais aussi d'autres causes : voir le médecin.",
+  "chunks_attendus": [
+   "doc1618_c0"
+  ],
+  "type": "enfant"
+ },
+ {
+  "q": "My doctor said I have Q fever, what amount of the antibiotic should an adult take, and how often?",
+  "reponse_attendue": "Chez l'adulte : 100 mg toutes les 12 heures.",
+  "chunks_attendus": [
+   "doc2124_c9"
+  ],
+  "type": "posologie"
+ },
+ {
+  "q": "For how many days and in what amounts should I take the medicine prescribed to clear up lymphatic filariasis?",
+  "reponse_attendue": "DEC à 6 mg/kg/jour, pendant 1 jour ou 12 jours (le traitement d'un jour est en général aussi efficace).",
+  "chunks_attendus": [
+   "doc2138_c0"
+  ],
+  "type": "posologie"
+ },
+ {
+  "q": "Is there any real benefit in waiting to see if chest discomfort goes away on its own, or does quick medical intervention matter?",
+  "reponse_attendue": "Attendre est risqué : le traitement de la crise cardiaque marche mieux s'il est donné juste après l'apparition des symptômes.",
+  "chunks_attendus": [
+   "doc1453_c0"
+  ],
+  "type": "urgence"
+ },
+ {
+  "q": "What sort of routine hospital tests like blood draws, heart tracings, or chest imaging would doctors use to figure out if my heart is failing?",
+  "reponse_attendue": "Électrocardiogramme, radio du thorax et prise de sang BNP.",
+  "chunks_attendus": [
+   "doc1432_c1"
+  ],
+  "type": "diagnostic"
+ },
+ {
+  "q": "My brother was just diagnosed with Wilson's disease, so should the rest of us get screened even though we feel fine?",
+  "reponse_attendue": "Oui, les proches d'un malade devraient en parler à un médecin pour un test, car un diagnostic précoce peut éviter des lésions des organes.",
+  "chunks_attendus": [
+   "doc478_c0"
+  ],
+  "type": "antecedents"
+ },
+ {
+  "q": "I have a fever, swollen glands and painful ankles, could it be sarcoidosis, and can some people have it without any symptoms?",
+  "reponse_attendue": "Fièvre, ganglions gonflés et arthrite des chevilles évoquent le syndrome de Löfgren, mais beaucoup de personnes atteintes n'ont aucun symptôme ou des symptômes légers.",
+  "chunks_attendus": [
+   "doc1993_c1"
+  ],
+  "type": "symptomes"
+ },
+ {
+  "q": "Is it true that osteoporosis doesn't really show any warning signs until you break a bone, or could shrinking by an inch be a hint?",
+  "reponse_attendue": "Oui, l'ostéoporose n'a pas de symptôme avant une fracture ; une perte de taille d'un pouce ou plus peut être le premier signe de fractures vertébrales.",
+  "chunks_attendus": [
+   "doc1368_c0"
+  ],
+  "type": "diagnostic"
+ },
+ {
+  "q": "The doctor said the growth found in my spinal cord is non-cancerous, but could it still cause issues just by pressing against nearby tissues?",
+  "reponse_attendue": "Oui, même bénigne, une tumeur de la moelle épinière peut comprimer les tissus sensibles et gêner leur fonctionnement.",
+  "chunks_attendus": [
+   "doc642_c0"
+  ],
+  "type": "explication"
+ },
+ {
+  "q": "Years after finishing treatment for osteosarcoma, could my teenager still face lingering physical or memory challenges?",
+  "reponse_attendue": "Oui, des séquelles tardives sont possibles : problèmes physiques, changements d'humeur, de pensée, d'apprentissage ou de mémoire, et seconds cancers.",
+  "chunks_attendus": [
+   "doc1671_c2"
+  ],
+  "type": "enfant"
+ },
+ {
+  "q": "How many milliliters of ibuprofen should I give my three-year-old child for a high fever?",
+  "reponse_attendue": null,
+  "chunks_attendus": [],
+  "type": "sans_reponse_posologie_enfant"
+ },
+ {
+  "q": "Is it completely safe to take ibuprofen during the first trimester of pregnancy?",
+  "reponse_attendue": null,
+  "chunks_attendus": [],
+  "type": "sans_reponse_grossesse"
+ },
+ {
+  "q": "Can I drink a glass of wine in the evening while taking amoxicillin?",
+  "reponse_attendue": null,
+  "chunks_attendus": [],
+  "type": "sans_reponse_interaction"
+ },
+ {
+  "q": "What dose of levothyroxine should I take for an underactive thyroid?",
+  "reponse_attendue": null,
+  "chunks_attendus": [],
+  "type": "sans_reponse_posologie"
+ },
+ {
+  "q": "What exercises help with plantar fasciitis heel pain?",
+  "reponse_attendue": null,
+  "chunks_attendus": [],
+  "type": "sans_reponse_sujet_absent"
+ }
+]
